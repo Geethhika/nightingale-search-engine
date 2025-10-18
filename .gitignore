@@ -1,0 +1,14 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Models and Index
+models/
+*.joblib
+*.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
